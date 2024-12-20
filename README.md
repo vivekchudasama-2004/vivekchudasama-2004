@@ -28,7 +28,7 @@
 <p align="center">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=vivekchudasama-2004&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Vivek's github stats" />
     <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekchudasama-2004&layout=compact&theme=dark&hide_border=true" />
-    <img align="center" width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekchudasama-2004&show_icons=true&theme=dark&locale=en&layout=compact" />
+    <img align="center" width="58%" src="https://github-readme-streak-stats.herokuapp.com/?username=vivekchudasama-2004&show_icons=true&theme=dark&locale=en&layout=compact" />
 <p>
 
 ---
