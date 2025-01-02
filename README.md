@@ -47,6 +47,7 @@
   <a href="https://www.linkedin.com/in/vivek-chudasama-2367ba254/">
     <img align="center" alt="Sahil Bhatia | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a>
+  
   <a href="mailto:vivekchudasama170@gmail.com">
     <img align="center" alt="Sahil Bhatia | Email" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
   </a>
