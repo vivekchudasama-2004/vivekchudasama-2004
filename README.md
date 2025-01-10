@@ -37,7 +37,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=vivekchudasama-2004&theme=darkhub&no-frame=true&row=1&column=6" alt="Kishan's GitHub Trophies" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=vivekchudasama-2004&theme=darkhub&no-frame=true&row=1&column=6" alt="Vivek's GitHub Trophies" />
 <p>
 
 ---
