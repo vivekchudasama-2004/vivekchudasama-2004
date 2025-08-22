@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd Year B.Tech Student
+- 🎓 Final Year B.Tech Student
 - 🚀 Passionate Developer
 - 📊 Web Developer
 - 📈 Problem Solver
